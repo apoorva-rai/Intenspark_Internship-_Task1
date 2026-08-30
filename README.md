@@ -1,3 +1,11 @@
+
+## Dataset
+
+The original dataset is not included in this repository because of its large file size. The dataset was used locally for analysis in Jupyter Notebook.
+
+The repository contains the complete analysis notebook, visualizations, findings, and final project report.
+
+
 # Website Traffic Analysis
 
 ## Project Overview
